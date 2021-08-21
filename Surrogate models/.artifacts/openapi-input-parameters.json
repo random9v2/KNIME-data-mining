@@ -1,0 +1,18 @@
+
+{
+    "type": "object",
+    "properties": {
+        "min-abs-correlation-1642": {
+            "type": "number",
+            "default": 0.6,
+            "description": "Enter Description",
+            "example": 0.6
+        },
+        "min-abs-correlation-1549": {
+            "type": "number",
+            "default": 0.6,
+            "description": "Enter Description",
+            "example": 0.6
+        }
+    }
+}
